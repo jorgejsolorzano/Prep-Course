@@ -1,0 +1,14 @@
+Variables:   Puede cambiar de valor en cualquier momento.
+
+Strings:   Variables que solo admiten textos.
+
+Funciones (argumentos, return):   Esto es algo asi como una caja que da respuestas dependiendo para que fue hecha,
+por ejemplo, si fue hecha para sumar dos numeros, los argumentos serian los dos numeros que debo introducir para que los sume.
+Y return es el valor procesado (sumado en este caso) que sale de la caja.
+
+Declaraciones if:  se utiliza para poder tomar decisiones ejemplo, en la vida real si una persona tiene dos opciones para estudiar,
+que pasa if=si me matriculo en la universidad o que pasa si no me matriculo.
+
+
+Valores booleanos (true, false):   verdadero o falso, nos permiten tomar decisiones dependiendo si es falso o verdadero,
+algo asi como un semaforo si esta verde o rojo.
