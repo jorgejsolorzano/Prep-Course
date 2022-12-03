@@ -1,0 +1,15 @@
+•	For:
+	Esta herramienta nos ayuda con las tareas que se repiten muchas veces,
+	un ejemplo sería una maquina contadora de billetes que nos ofrece rapidez y confiabilidad.
+	De esta manera los bucles For en programación nos evitan escribir tantas veces el mismo código y simplifica nuestro código.
+	
+•	&&:
+	así como en la vida diaria antes de tomar una decisión nos preguntamos, si hago esto “Y” esto otro,
+	se genera una ruta de trabajo debido a que el “Y” obliga a que se cumplan las dos condiciones.
+	
+•	||:  
+	este otro operador lógico se usa con la diferencia que, con una sola de las condiciones, esta “Ó” esta otra, podemos saber que ruta seguir.
+	
+•	!: 
+	Y por último comparamos con la diferencia, si esto es diferente a esto que debemos hacer.
+...
