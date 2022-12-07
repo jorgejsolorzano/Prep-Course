@@ -1,0 +1,2 @@
+* Arrays:  Es un conjunto de elementos con una ubicación (dirección),
+ los cuales permiten, ordenar, eliminar, agregar entre otros y almacenar diferentes tipos 
