@@ -1,0 +1,20 @@
+Objetos:
+Es una formo de modelar los objetos de la vida real, por ejemplo, un estudiante tiene algunas características y acciones.
+caracteristica1 = nombre
+caracteristica2 = edad
+caracteristica3 = esta matriculado
+caracteristica4 = cursa tal semestre
+acciones = puede saludar hacer exámenes... (estos serían los métodos)
+
+Propiedades:
+Son las características que definen y le dan forma de identificación al objeto.
+
+Métodos:
+Son las acciones que puede ejecutar el objeto.
+
+Bucle for…in:
+Es una herramienta que me permite recorrer el objeto para acceder al objeto conocer sus propiedades
+y ejecutar las acciones.
+
+Notación de puntos vs notación de corchetes:
+Es la forma literal de acceder a las características y métodos.
