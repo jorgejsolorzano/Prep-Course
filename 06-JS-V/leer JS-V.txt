@@ -1,0 +1,8 @@
+prototype:
+
+Es la forma en que los objetos heredaran propiedades de un modelo previamente creado
+para evitar repetir código.
+
+Constructors (de Clases):
+
+Mediante el constructor creamos la plantilla o el modelo principal de nuestros objetos.
