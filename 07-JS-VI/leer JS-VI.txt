@@ -1,0 +1,8 @@
+Funciones Callback:
+
+Son parametros de una función que pueden recibir otra función, en otras palabras
+estábamos acostumbrados a recibir parámetros básicos como números, cadenas
+pero ahora en JavaScript nos permite recibir funciones como parámetro.
+
+
+
